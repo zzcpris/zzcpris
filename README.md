@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Zenel, an student from France
+I'm Zenel, a student from France
 
 I am interested in working as a software engineer, remotely or at a company
 
