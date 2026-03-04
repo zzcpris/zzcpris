@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+I'm Zenel, an student from France
+
+I am interested in working as a software engineer, remotely or at a company
+
+I am also coding a file sharing project for the moment
+
+## Tools
+
+- HTML, CSS, Javascript
+- Trying to learn Node, Express, MongoDb
+
+## Info about me
+- 📹I also like content creation(editing video)
+- 👍I always try to be useful
+- 🌱 I’m currently learning to be a good engineer
+
 <!--
 **zzcpris/zzcpris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
