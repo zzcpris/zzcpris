@@ -14,7 +14,7 @@ I am also coding a file sharing project for the moment
 ## Info about me
 - 📹I also like content creation(editing video)
 - 👍I always try to be useful
-- 🌱 I’m currently learning to be a good engineer
+- 🌱 I’m currently learning to be an engineer
 
 <!--
 **zzcpris/zzcpris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
